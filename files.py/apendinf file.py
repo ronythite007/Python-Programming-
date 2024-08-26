@@ -1,0 +1,5 @@
+f = open ('sample.txt','a')
+data=f.write("im an artist from pune")
+print(data)
+print("\n")
+f.close()
